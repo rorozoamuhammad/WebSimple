@@ -1,0 +1,18 @@
+h3 {
+	text-shadow: 3px 2px 4px rgba(0, 0, 0, 0,3);
+}
+h5 {
+	text-shadow: 3px 2px 4px rgba(0, 0, 0, 0,3);
+}
+.parallax img {
+	filter: grayscale(1);
+	opacity: 0.5 !important;
+}
+.container-client img {
+	max-height: 500px;
+	max-width: 500px;
+	opacity: 0.9;
+}
+footer {
+	padding: 1px 0;
+}
